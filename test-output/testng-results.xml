@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-26T09:39:55Z" name="Suite" finished-at="2022-01-26T09:39:56Z" duration-ms="746">
+    <groups>
+    </groups>
+    <test started-at="2022-01-26T09:39:55Z" name="Test" finished-at="2022-01-26T09:39:56Z" duration-ms="746">
+      <class name="first_package.GetTestDataRun">
+        <test-method signature="testDataGetWithFirstConstructorWithOutSheetName()[pri:0, instance:first_package.GetTestDataRun@1f81aa00]" started-at="2022-01-26T11:39:55Z" name="testDataGetWithFirstConstructorWithOutSheetName" finished-at="2022-01-26T11:39:56Z" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataGetWithFirstConstructorWithOutSheetName -->
+        <test-method signature="testDataGetWithSecondConstructorWithSheetName()[pri:0, instance:first_package.GetTestDataRun@1f81aa00]" started-at="2022-01-26T11:39:55Z" name="testDataGetWithSecondConstructorWithSheetName" finished-at="2022-01-26T11:39:56Z" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataGetWithSecondConstructorWithSheetName -->
+      </class> <!-- first_package.GetTestDataRun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
